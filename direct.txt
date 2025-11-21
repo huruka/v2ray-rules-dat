@@ -1,3 +1,5 @@
 appinn.net
 emacs-china.org
 tiddlywiki.org
+bwh81.net
+ghisler.ch
